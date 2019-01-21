@@ -22876,6 +22876,46 @@ body {
 .cid-rdT6THM2uV .mbr-section-btn {
   color: #000000;
 }
+.cid-rf1W2ap6YY {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f295;
+}
+.cid-rf1W2ap6YY .card-img {
+  background-color: #fff;
+}
+.cid-rf1W2ap6YY .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-rf1W2ap6YY h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rf1W2ap6YY p {
+  text-align: left;
+}
+.cid-rf1W2ap6YY .mbr-text {
+  color: #767676;
+}
+.cid-rf1W2ap6YY .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rf1W2ap6YY .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rf1W2ap6YY .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
 .cid-rdSUxh7Sq7 {
   padding-top: 30px;
   padding-bottom: 30px;
